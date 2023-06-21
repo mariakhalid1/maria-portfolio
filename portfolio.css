@@ -115,7 +115,7 @@ body {
     }
     
     .portfolio-item {
-      width: calc(33.33% - 20px);
+      width: 250px;
       margin-bottom: 20px;
       padding: 10px;
       border: 1px solid #ccc;
